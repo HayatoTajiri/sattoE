@@ -95,7 +95,6 @@ def answer_questions(event):
             break
         except Exception:
             driver.close()
-            break
 #######################################################################################
 
 
